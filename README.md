@@ -27,3 +27,7 @@ Building dynamic and responsive React components
 
 Handling real-time data flow between the client and the server
 
+#output
+
+![Image](https://github.com/user-attachments/assets/86464343-74e8-441f-a1f7-3b47051ed031)
+
